@@ -28,7 +28,7 @@
       <h1>Welcome <span><?php echo $_SESSION['admin_name'] ?></span></h1>
       <p>This is an admin page.</p>
       <a href="login_form.php" class="btn">Login</a>
-      <a href="register_form.php" class="btn">Register</a>
+      <a href="register_Form.php" class="btn">Register</a>
       <a href="logout.php" class="btn">Logout</a>
    </div>
 </div>
